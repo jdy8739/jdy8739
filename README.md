@@ -5,10 +5,11 @@
 업무에서 불필요한 반복 업무를 최소화하는 **자동화**를 지향합니다.</small> 
 
 ### Connect with Me  
-- **Blog**: [Medium](#) ・ **LinkedIn**: [LinkedIn](#) ・ **Email**: [Gmail](#)  
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://shrub-deer-f9d.notion.site/FE-edd9d71558484a87b9944d5155b40089)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doyoung-chung-270b08259/) 
 
 ### Technical Skills  
-<small>Programming Languages: JavaScript, TypeScript</small>  
-<small>Library: React</small>  
-<small>Framework: Next.js, Vue.js</small>  
-<small>Tools & Testing: Storybook, Vitest</small>  
+- <small>Programming Languages: JavaScript, TypeScript</small>  
+- <small>Library: React</small>  
+- <small>Framework: Next.js, Vue.js</small>  
+- <small>Tools & Testing: Storybook, Vitest</small>  
