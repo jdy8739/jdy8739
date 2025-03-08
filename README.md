@@ -6,8 +6,8 @@
 
 Blog Medium LinkedIn Gmail
 
-**Technical Skills**  
+- **Technical Skills**  
 
-Programming Languages: Javascript, Typescript
-Library: React
-Framework: Next.js, Vue.js, Storybook, Vitest
+ - Programming Languages: Javascript, Typescript  
+ - Library: React  
+ - Framework: Next.js, Vue.js, Storybook, Vitest  
