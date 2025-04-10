@@ -7,6 +7,7 @@
 ### Connect with Me  
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://shrub-deer-f9d.notion.site/FE-edd9d71558484a87b9944d5155b40089)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doyoung-chung-270b08259/) 
+[![Blog](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://logdo.netlify.app) 
 
 ### Technical Skills  
 - <small>Programming Languages: JavaScript, TypeScript</small>  
