@@ -17,5 +17,5 @@
 
 
 ### Careers  
-- <small>WEMADE: 2023.02 - 2025.06</small>  
 - <small>Thaki Cloud: 2025.06 ~ </small>  
+- <small>WEMADE: 2023.02 - 2025.06</small>  
